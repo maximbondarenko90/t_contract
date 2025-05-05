@@ -1,6 +1,5 @@
 {
     "devDependencies": {
-        "@nomicfoundation/edr-linux-x64-musl": "^0.2.0",
         "@nomicfoundation/hardhat-ethers": "^3.0.4",
         "@nomicfoundation/hardhat-toolbox": "^3.0.0",
         "@openzeppelin/hardhat-upgrades": "^2.3.3",
