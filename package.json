@@ -1,7 +1,5 @@
 {
     "devDependencies": {
-        "@nomicfoundation/hardhat-ethers": "^3.0.4",
-        "@nomicfoundation/hardhat-toolbox": "^3.0.0",
         "@openzeppelin/hardhat-upgrades": "^2.3.3",
         "@typechain/ethers-v6": "^0.4.0",
         "@typechain/hardhat": "^8.0.0",
